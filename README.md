@@ -16,6 +16,8 @@ Our dataset encompasses daily updated COVID-19 statistics, including the number 
 
 Following initial data preparation, we performed further data manipulation using SQL to enhance our dataset with additional metrics such as new daily cases and case fatality rates. This enriched dataset allows for a more nuanced understanding of the pandemic's dynamics, including the rate at which it spreads and the lethality of the virus across different regions and periods.
 
+![preview](https://github.com/Lindelani-3/covidtrends/assets/99859713/15d8497a-a9d8-44b6-90ce-dd6d60baf19d)
+
 
 ## Dashboard
 
@@ -24,6 +26,9 @@ The Power BI dashboard PDF provides a comprehensive visualization of COVID-19 tr
 
 
 Our analysis revealed significant differences in the impact of COVID-19 across WHO regions, with varying trends in case numbers, fatalities, and recovery rates. Through our dashboard, stakeholders can explore these trends in detail, gaining valuable insights into the pandemic's evolution and identifying areas that may require more focused public health interventions.
+
+
+![dashboard](https://github.com/Lindelani-3/covidtrends/assets/99859713/d5063091-73c9-4e2b-841e-38958a9a3185)
 
 
 ## Conclusion
