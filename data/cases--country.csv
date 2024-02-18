@@ -1,0 +1,1001 @@
+Country/Region,Confirmed
+Afghanistan,0
+Albania,0
+Algeria,0
+Andorra,0
+Angola,0
+"Antigua and Barbuda",0
+Argentina,0
+Armenia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Austria,0
+Azerbaijan,0
+Bahamas,0
+Bahrain,0
+Bangladesh,0
+Barbados,0
+Belarus,0
+Belgium,0
+Benin,0
+Bhutan,0
+Bolivia,0
+"Bosnia and Herzegovina",0
+Brazil,0
+Brunei,0
+Bulgaria,0
+"Burkina Faso",0
+"Cabo Verde",0
+Cambodia,0
+Cameroon,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+"Central African Republic",0
+Chad,0
+Chile,0
+China,1
+China,14
+China,6
+China,1
+China,0
+China,26
+China,2
+China,1
+China,4
+China,1
+China,0
+China,5
+China,0
+China,444
+China,4
+China,0
+China,1
+China,2
+China,0
+China,2
+China,1
+China,1
+China,0
+China,0
+China,2
+China,9
+China,1
+China,5
+China,4
+China,0
+China,0
+China,1
+China,10
+Colombia,0
+"Congo (Brazzaville)",0
+"Congo (Kinshasa)",0
+"Costa Rica",0
+"Cote d'Ivoire",0
+Croatia,0
+Cuba,0
+Cyprus,0
+Czechia,0
+Denmark,0
+Greenland,0
+Denmark,0
+Djibouti,0
+"Dominican Republic",0
+Ecuador,0
+Egypt,0
+"El Salvador",0
+"Equatorial Guinea",0
+Eritrea,0
+Estonia,0
+Eswatini,0
+Ethiopia,0
+Fiji,0
+Finland,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+Gabon,0
+Gambia,0
+Georgia,0
+Germany,0
+Ghana,0
+Greece,0
+Guatemala,0
+Guinea,0
+Guyana,0
+Haiti,0
+"Holy See",0
+Honduras,0
+Hungary,0
+Iceland,0
+India,0
+Indonesia,0
+Iran,0
+Iraq,0
+Ireland,0
+Israel,0
+Italy,0
+Jamaica,0
+Japan,2
+Jordan,0
+Kazakhstan,0
+Kenya,0
+"South Korea",1
+Kuwait,0
+Kyrgyzstan,0
+Latvia,0
+Lebanon,0
+Liberia,0
+Liechtenstein,0
+Lithuania,0
+Luxembourg,0
+Madagascar,0
+Malaysia,0
+Maldives,0
+Malta,0
+Mauritania,0
+Mauritius,0
+Mexico,0
+Moldova,0
+Monaco,0
+Mongolia,0
+Montenegro,0
+Morocco,0
+Namibia,0
+Nepal,0
+Netherlands,0
+Netherlands,0
+Netherlands,0
+Netherlands,0
+"New Zealand",0
+Nicaragua,0
+Niger,0
+Nigeria,0
+"North Macedonia",0
+Norway,0
+Oman,0
+Pakistan,0
+Panama,0
+"Papua New Guinea",0
+Paraguay,0
+Peru,0
+Philippines,0
+Poland,0
+Portugal,0
+Qatar,0
+Romania,0
+Russia,0
+Rwanda,0
+"Saint Lucia",0
+"Saint Vincent and the Grenadines",0
+"San Marino",0
+"Saudi Arabia",0
+Senegal,0
+Serbia,0
+Seychelles,0
+Singapore,0
+Slovakia,0
+Slovenia,0
+Somalia,0
+"South Africa",0
+Spain,0
+"Sri Lanka",0
+Sudan,0
+Suriname,0
+Sweden,0
+Switzerland,0
+Taiwan*,1
+Tanzania,0
+Thailand,2
+Togo,0
+"Trinidad and Tobago",0
+Tunisia,0
+Turkey,0
+Uganda,0
+Ukraine,0
+"United Arab Emirates",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+Uruguay,0
+US,1
+Uzbekistan,0
+Venezuela,0
+Vietnam,0
+Zambia,0
+Zimbabwe,0
+Dominica,0
+Grenada,0
+Mozambique,0
+Syria,0
+Timor-Leste,0
+Belize,0
+Laos,0
+Libya,0
+"West Bank and Gaza",0
+Guinea-Bissau,0
+Mali,0
+"Saint Kitts and Nevis",0
+Canada,0
+Canada,0
+Kosovo,0
+Burma,0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+Botswana,0
+Burundi,0
+"Sierra Leone",0
+Malawi,0
+"United Kingdom",0
+France,0
+"South Sudan",0
+"Western Sahara",0
+"Sao Tome and Principe",0
+Yemen,0
+Comoros,0
+Tajikistan,0
+Lesotho,0
+Afghanistan,0
+Albania,0
+Algeria,0
+Andorra,0
+Angola,0
+"Antigua and Barbuda",0
+Argentina,0
+Armenia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Austria,0
+Azerbaijan,0
+Bahamas,0
+Bahrain,0
+Bangladesh,0
+Barbados,0
+Belarus,0
+Belgium,0
+Benin,0
+Bhutan,0
+Bolivia,0
+"Bosnia and Herzegovina",0
+Brazil,0
+Brunei,0
+Bulgaria,0
+"Burkina Faso",0
+"Cabo Verde",0
+Cambodia,0
+Cameroon,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+"Central African Republic",0
+Chad,0
+Chile,0
+China,9
+China,22
+China,9
+China,5
+China,2
+China,32
+China,5
+China,3
+China,5
+China,1
+China,2
+China,5
+China,2
+China,444
+China,9
+China,0
+China,5
+China,7
+China,1
+China,3
+China,2
+China,1
+China,0
+China,3
+China,6
+China,16
+China,1
+China,8
+China,4
+China,0
+China,2
+China,2
+China,27
+Colombia,0
+"Congo (Brazzaville)",0
+"Congo (Kinshasa)",0
+"Costa Rica",0
+"Cote d'Ivoire",0
+Croatia,0
+Cuba,0
+Cyprus,0
+Czechia,0
+Denmark,0
+Greenland,0
+Denmark,0
+Djibouti,0
+"Dominican Republic",0
+Ecuador,0
+Egypt,0
+"El Salvador",0
+"Equatorial Guinea",0
+Eritrea,0
+Estonia,0
+Eswatini,0
+Ethiopia,0
+Fiji,0
+Finland,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+Gabon,0
+Gambia,0
+Georgia,0
+Germany,0
+Ghana,0
+Greece,0
+Guatemala,0
+Guinea,0
+Guyana,0
+Haiti,0
+"Holy See",0
+Honduras,0
+Hungary,0
+Iceland,0
+India,0
+Indonesia,0
+Iran,0
+Iraq,0
+Ireland,0
+Israel,0
+Italy,0
+Jamaica,0
+Japan,2
+Jordan,0
+Kazakhstan,0
+Kenya,0
+"South Korea",1
+Kuwait,0
+Kyrgyzstan,0
+Latvia,0
+Lebanon,0
+Liberia,0
+Liechtenstein,0
+Lithuania,0
+Luxembourg,0
+Madagascar,0
+Malaysia,0
+Maldives,0
+Malta,0
+Mauritania,0
+Mauritius,0
+Mexico,0
+Moldova,0
+Monaco,0
+Mongolia,0
+Montenegro,0
+Morocco,0
+Namibia,0
+Nepal,0
+Netherlands,0
+Netherlands,0
+Netherlands,0
+Netherlands,0
+"New Zealand",0
+Nicaragua,0
+Niger,0
+Nigeria,0
+"North Macedonia",0
+Norway,0
+Oman,0
+Pakistan,0
+Panama,0
+"Papua New Guinea",0
+Paraguay,0
+Peru,0
+Philippines,0
+Poland,0
+Portugal,0
+Qatar,0
+Romania,0
+Russia,0
+Rwanda,0
+"Saint Lucia",0
+"Saint Vincent and the Grenadines",0
+"San Marino",0
+"Saudi Arabia",0
+Senegal,0
+Serbia,0
+Seychelles,0
+Singapore,1
+Slovakia,0
+Slovenia,0
+Somalia,0
+"South Africa",0
+Spain,0
+"Sri Lanka",0
+Sudan,0
+Suriname,0
+Sweden,0
+Switzerland,0
+Taiwan*,1
+Tanzania,0
+Thailand,3
+Togo,0
+"Trinidad and Tobago",0
+Tunisia,0
+Turkey,0
+Uganda,0
+Ukraine,0
+"United Arab Emirates",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+Uruguay,0
+US,1
+Uzbekistan,0
+Venezuela,0
+Vietnam,2
+Zambia,0
+Zimbabwe,0
+Dominica,0
+Grenada,0
+Mozambique,0
+Syria,0
+Timor-Leste,0
+Belize,0
+Laos,0
+Libya,0
+"West Bank and Gaza",0
+Guinea-Bissau,0
+Mali,0
+"Saint Kitts and Nevis",0
+Canada,0
+Canada,0
+Kosovo,0
+Burma,0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+Botswana,0
+Burundi,0
+"Sierra Leone",0
+Malawi,0
+"United Kingdom",0
+France,0
+"South Sudan",0
+"Western Sahara",0
+"Sao Tome and Principe",0
+Yemen,0
+Comoros,0
+Tajikistan,0
+Lesotho,0
+Afghanistan,0
+Albania,0
+Algeria,0
+Andorra,0
+Angola,0
+"Antigua and Barbuda",0
+Argentina,0
+Armenia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Austria,0
+Azerbaijan,0
+Bahamas,0
+Bahrain,0
+Bangladesh,0
+Barbados,0
+Belarus,0
+Belgium,0
+Benin,0
+Bhutan,0
+Bolivia,0
+"Bosnia and Herzegovina",0
+Brazil,0
+Brunei,0
+Bulgaria,0
+"Burkina Faso",0
+"Cabo Verde",0
+Cambodia,0
+Cameroon,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+"Central African Republic",0
+Chad,0
+Chile,0
+China,15
+China,36
+China,27
+China,10
+China,2
+China,53
+China,23
+China,3
+China,8
+China,2
+China,4
+China,9
+China,2
+China,549
+China,24
+China,1
+China,9
+China,18
+China,3
+China,4
+China,2
+China,2
+China,0
+China,5
+China,15
+China,20
+China,1
+China,15
+China,8
+China,0
+China,2
+China,5
+China,43
+Colombia,0
+"Congo (Brazzaville)",0
+"Congo (Kinshasa)",0
+"Costa Rica",0
+"Cote d'Ivoire",0
+Croatia,0
+Cuba,0
+Cyprus,0
+Czechia,0
+Denmark,0
+Greenland,0
+Denmark,0
+Djibouti,0
+"Dominican Republic",0
+Ecuador,0
+Egypt,0
+"El Salvador",0
+"Equatorial Guinea",0
+Eritrea,0
+Estonia,0
+Eswatini,0
+Ethiopia,0
+Fiji,0
+Finland,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,2
+Gabon,0
+Gambia,0
+Georgia,0
+Germany,0
+Ghana,0
+Greece,0
+Guatemala,0
+Guinea,0
+Guyana,0
+Haiti,0
+"Holy See",0
+Honduras,0
+Hungary,0
+Iceland,0
+India,0
+Indonesia,0
+Iran,0
+Iraq,0
+Ireland,0
+Israel,0
+Italy,0
+Jamaica,0
+Japan,2
+Jordan,0
+Kazakhstan,0
+Kenya,0
+"South Korea",2
+Kuwait,0
+Kyrgyzstan,0
+Latvia,0
+Lebanon,0
+Liberia,0
+Liechtenstein,0
+Lithuania,0
+Luxembourg,0
+Madagascar,0
+Malaysia,0
+Maldives,0
+Malta,0
+Mauritania,0
+Mauritius,0
+Mexico,0
+Moldova,0
+Monaco,0
+Mongolia,0
+Montenegro,0
+Morocco,0
+Namibia,0
+Nepal,0
+Netherlands,0
+Netherlands,0
+Netherlands,0
+Netherlands,0
+"New Zealand",0
+Nicaragua,0
+Niger,0
+Nigeria,0
+"North Macedonia",0
+Norway,0
+Oman,0
+Pakistan,0
+Panama,0
+"Papua New Guinea",0
+Paraguay,0
+Peru,0
+Philippines,0
+Poland,0
+Portugal,0
+Qatar,0
+Romania,0
+Russia,0
+Rwanda,0
+"Saint Lucia",0
+"Saint Vincent and the Grenadines",0
+"San Marino",0
+"Saudi Arabia",0
+Senegal,0
+Serbia,0
+Seychelles,0
+Singapore,3
+Slovakia,0
+Slovenia,0
+Somalia,0
+"South Africa",0
+Spain,0
+"Sri Lanka",0
+Sudan,0
+Suriname,0
+Sweden,0
+Switzerland,0
+Taiwan*,3
+Tanzania,0
+Thailand,5
+Togo,0
+"Trinidad and Tobago",0
+Tunisia,0
+Turkey,0
+Uganda,0
+Ukraine,0
+"United Arab Emirates",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+Uruguay,0
+US,2
+Uzbekistan,0
+Venezuela,0
+Vietnam,2
+Zambia,0
+Zimbabwe,0
+Dominica,0
+Grenada,0
+Mozambique,0
+Syria,0
+Timor-Leste,0
+Belize,0
+Laos,0
+Libya,0
+"West Bank and Gaza",0
+Guinea-Bissau,0
+Mali,0
+"Saint Kitts and Nevis",0
+Canada,0
+Canada,0
+Kosovo,0
+Burma,0
+"United Kingdom",0
+"United Kingdom",0
+"United Kingdom",0
+Botswana,0
+Burundi,0
+"Sierra Leone",0
+Malawi,0
+"United Kingdom",0
+France,0
+"South Sudan",0
+"Western Sahara",0
+"Sao Tome and Principe",0
+Yemen,0
+Comoros,0
+Tajikistan,0
+Lesotho,0
+Afghanistan,0
+Albania,0
+Algeria,0
+Andorra,0
+Angola,0
+"Antigua and Barbuda",0
+Argentina,0
+Armenia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Australia,0
+Austria,0
+Azerbaijan,0
+Bahamas,0
+Bahrain,0
+Bangladesh,0
+Barbados,0
+Belarus,0
+Belgium,0
+Benin,0
+Bhutan,0
+Bolivia,0
+"Bosnia and Herzegovina",0
+Brazil,0
+Brunei,0
+Bulgaria,0
+"Burkina Faso",0
+"Cabo Verde",0
+Cambodia,0
+Cameroon,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+Canada,0
+"Central African Republic",0
+Chad,0
+Chile,0
+China,39
+China,41
+China,57
+China,18
+China,4
+China,78
+China,23
+China,4
+China,19
+China,8
+China,9
+China,32
+China,5
+China,761
+China,43
+China,7
+China,18
+China,18
+China,4
+China,17
+China,2
+China,3
+China,1
+China,15
+China,27
+China,33
+China,6
+China,28
+China,10
+China,0
+China,3
+China,11
+China,62
+Colombia,0
+"Congo (Brazzaville)",0
+"Congo (Kinshasa)",0
+"Costa Rica",0
+"Cote d'Ivoire",0
+Croatia,0
+Cuba,0
+Cyprus,0
+Czechia,0
+Denmark,0
+Greenland,0
+Denmark,0
+Djibouti,0
+"Dominican Republic",0
+Ecuador,0
+Egypt,0
+"El Salvador",0
+"Equatorial Guinea",0
+Eritrea,0
+Estonia,0
+Eswatini,0
+Ethiopia,0
+Fiji,0
+Finland,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,0
+France,3
+Gabon,0
+Gambia,0
+Georgia,0
+Germany,0
+Ghana,0
+Greece,0
+Guatemala,0
+Guinea,0
+Guyana,0
+Haiti,0
+"Holy See",0
+Honduras,0
+Hungary,0
+Iceland,0
+India,0
+Indonesia,0
+Iran,0
+Iraq,0
+Ireland,0
+Israel,0
+Italy,0
+Jamaica,0
+Japan,2
+Jordan,0
+Kazakhstan,0
+Kenya,0
+"South Korea",2
+Kuwait,0
+Kyrgyzstan,0
+Latvia,0
+Lebanon,0
+Liberia,0
+Liechtenstein,0
+Lithuania,0
+Luxembourg,0
+Madagascar,0
+Malaysia,3
+Maldives,0
+Malta,0
+Mauritania,0
+Mauritius,0
+Mexico,0
+Moldova,0
+Monaco,0
+Mongolia,0
+Montenegro,0
+Morocco,0
+Namibia,0
+Nepal,1
+Netherlands,0
+Netherlands,0
+Netherlands,0
+Netherlands,0
+"New Zealand",0
+Nicaragua,0
+Niger,0
+Nigeria,0
+"North Macedonia",0
+Norway,0
+Oman,0
+Pakistan,0
+Panama,0
+"Papua New Guinea",0
+Paraguay,0
+Peru,0
+Philippines,0
+Poland,0
+Portugal,0
+Qatar,0
+Romania,0
+Russia,0
+Rwanda,0
+"Saint Lucia",0
+"Saint Vincent and the Grenadines",0
+"San Marino",0
+"Saudi Arabia",0
+Senegal,0
+Serbia,0
+Seychelles,0
+Singapore,3
+Slovakia,0
+Slovenia,0
+Somalia,0
+"South Africa",0
+Spain,0
+"Sri Lanka",0
+Sudan,0
+Suriname,0
+Sweden,0
+Switzerland,0
+Taiwan*,3
+Tanzania,0
+Thailand,7
+Togo,0
+"Trinidad and Tobago",0
+Tunisia,0
+Turkey,0
+Uganda,0
+Ukraine,0
+"United Arab Emirates",0
+"United Kingdom",0
+"United Kingdom",0

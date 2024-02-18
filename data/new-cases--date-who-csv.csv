@@ -1,0 +1,211 @@
+"WHO Region",Date,NewCases
+Africa,2020-01-22,NULL
+Africa,2020-01-23,0
+Africa,2020-01-24,0
+Africa,2020-01-25,0
+Africa,2020-01-26,0
+Africa,2020-01-27,0
+Africa,2020-01-28,0
+Africa,2020-01-29,0
+Africa,2020-01-30,0
+Africa,2020-01-31,0
+Africa,2020-02-01,0
+Africa,2020-02-02,0
+Africa,2020-02-03,0
+Africa,2020-02-04,0
+Africa,2020-02-05,0
+Africa,2020-02-06,0
+Africa,2020-02-07,0
+Africa,2020-02-08,0
+Africa,2020-02-09,0
+Africa,2020-02-10,0
+Africa,2020-02-11,0
+Africa,2020-02-12,0
+Africa,2020-02-13,0
+Africa,2020-02-14,0
+Africa,2020-02-15,0
+Africa,2020-02-16,0
+Africa,2020-02-17,0
+Africa,2020-02-18,0
+Africa,2020-02-19,0
+Africa,2020-02-20,0
+Africa,2020-02-21,0
+Africa,2020-02-22,0
+Africa,2020-02-23,0
+Africa,2020-02-24,0
+Africa,2020-02-25,2
+Americas,2020-01-22,NULL
+Americas,2020-01-23,0
+Americas,2020-01-24,2
+Americas,2020-01-25,0
+Americas,2020-01-26,8
+Americas,2020-01-27,0
+Americas,2020-01-28,2
+Americas,2020-01-29,0
+Americas,2020-01-30,0
+Americas,2020-01-31,8
+Americas,2020-02-01,2
+Americas,2020-02-02,0
+Americas,2020-02-03,6
+Americas,2020-02-04,0
+Americas,2020-02-05,2
+Americas,2020-02-06,0
+Americas,2020-02-07,4
+Americas,2020-02-08,0
+Americas,2020-02-09,0
+Americas,2020-02-10,0
+Americas,2020-02-11,2
+Americas,2020-02-12,0
+Americas,2020-02-13,2
+Americas,2020-02-14,0
+Americas,2020-02-15,0
+Americas,2020-02-16,0
+Americas,2020-02-17,2
+Americas,2020-02-18,0
+Americas,2020-02-19,0
+Americas,2020-02-20,0
+Americas,2020-02-21,6
+Americas,2020-02-22,0
+Americas,2020-02-23,4
+Americas,2020-02-24,2
+Americas,2020-02-25,-28
+"Eastern Mediterranean",2020-01-22,NULL
+"Eastern Mediterranean",2020-01-23,0
+"Eastern Mediterranean",2020-01-24,0
+"Eastern Mediterranean",2020-01-25,0
+"Eastern Mediterranean",2020-01-26,0
+"Eastern Mediterranean",2020-01-27,0
+"Eastern Mediterranean",2020-01-28,0
+"Eastern Mediterranean",2020-01-29,8
+"Eastern Mediterranean",2020-01-30,0
+"Eastern Mediterranean",2020-01-31,0
+"Eastern Mediterranean",2020-02-01,0
+"Eastern Mediterranean",2020-02-02,2
+"Eastern Mediterranean",2020-02-03,0
+"Eastern Mediterranean",2020-02-04,0
+"Eastern Mediterranean",2020-02-05,0
+"Eastern Mediterranean",2020-02-06,0
+"Eastern Mediterranean",2020-02-07,0
+"Eastern Mediterranean",2020-02-08,4
+"Eastern Mediterranean",2020-02-09,0
+"Eastern Mediterranean",2020-02-10,2
+"Eastern Mediterranean",2020-02-11,0
+"Eastern Mediterranean",2020-02-12,0
+"Eastern Mediterranean",2020-02-13,0
+"Eastern Mediterranean",2020-02-14,2
+"Eastern Mediterranean",2020-02-15,0
+"Eastern Mediterranean",2020-02-16,2
+"Eastern Mediterranean",2020-02-17,0
+"Eastern Mediterranean",2020-02-18,0
+"Eastern Mediterranean",2020-02-19,4
+"Eastern Mediterranean",2020-02-20,6
+"Eastern Mediterranean",2020-02-21,28
+"Eastern Mediterranean",2020-02-22,28
+"Eastern Mediterranean",2020-02-23,30
+"Eastern Mediterranean",2020-02-24,48
+"Eastern Mediterranean",2020-02-25,102
+Europe,2020-01-22,NULL
+Europe,2020-01-23,0
+Europe,2020-01-24,4
+Europe,2020-01-25,2
+Europe,2020-01-26,0
+Europe,2020-01-27,2
+Europe,2020-01-28,8
+Europe,2020-01-29,4
+Europe,2020-01-30,0
+Europe,2020-01-31,16
+Europe,2020-02-01,10
+Europe,2020-02-02,4
+Europe,2020-02-03,16
+Europe,2020-02-04,2
+Europe,2020-02-05,2
+Europe,2020-02-06,0
+Europe,2020-02-07,4
+Europe,2020-02-08,18
+Europe,2020-02-09,6
+Europe,2020-02-10,0
+Europe,2020-02-11,6
+Europe,2020-02-12,2
+Europe,2020-02-13,2
+Europe,2020-02-14,2
+Europe,2020-02-15,2
+Europe,2020-02-16,0
+Europe,2020-02-17,2
+Europe,2020-02-18,0
+Europe,2020-02-19,2
+Europe,2020-02-20,4
+Europe,2020-02-21,38
+Europe,2020-02-22,84
+Europe,2020-02-23,196
+Europe,2020-02-24,152
+Europe,2020-02-25,128
+"South-East Asia",2020-01-22,NULL
+"South-East Asia",2020-01-23,2
+"South-East Asia",2020-01-24,4
+"South-East Asia",2020-01-25,6
+"South-East Asia",2020-01-26,2
+"South-East Asia",2020-01-27,2
+"South-East Asia",2020-01-28,12
+"South-East Asia",2020-01-29,0
+"South-East Asia",2020-01-30,2
+"South-East Asia",2020-01-31,10
+"South-East Asia",2020-02-01,0
+"South-East Asia",2020-02-02,2
+"South-East Asia",2020-02-03,2
+"South-East Asia",2020-02-04,12
+"South-East Asia",2020-02-05,0
+"South-East Asia",2020-02-06,0
+"South-East Asia",2020-02-07,0
+"South-East Asia",2020-02-08,14
+"South-East Asia",2020-02-09,0
+"South-East Asia",2020-02-10,0
+"South-East Asia",2020-02-11,2
+"South-East Asia",2020-02-12,0
+"South-East Asia",2020-02-13,0
+"South-East Asia",2020-02-14,0
+"South-East Asia",2020-02-15,0
+"South-East Asia",2020-02-16,2
+"South-East Asia",2020-02-17,2
+"South-East Asia",2020-02-18,0
+"South-East Asia",2020-02-19,0
+"South-East Asia",2020-02-20,0
+"South-East Asia",2020-02-21,0
+"South-East Asia",2020-02-22,0
+"South-East Asia",2020-02-23,0
+"South-East Asia",2020-02-24,0
+"South-East Asia",2020-02-25,-72
+"Western Pacific",2020-01-22,NULL
+"Western Pacific",2020-01-23,196
+"Western Pacific",2020-01-24,564
+"Western Pacific",2020-01-25,978
+"Western Pacific",2020-01-26,1358
+"Western Pacific",2020-01-27,1614
+"Western Pacific",2020-01-28,5280
+"Western Pacific",2020-01-29,1164
+"Western Pacific",2020-01-30,4134
+"Western Pacific",2020-01-31,3352
+"Western Pacific",2020-02-01,4210
+"Western Pacific",2020-02-02,9490
+"Western Pacific",2020-02-03,6176
+"Western Pacific",2020-02-04,8008
+"Western Pacific",2020-02-05,7486
+"Western Pacific",2020-02-06,6318
+"Western Pacific",2020-02-07,7056
+"Western Pacific",2020-02-08,5432
+"Western Pacific",2020-02-09,6048
+"Western Pacific",2020-02-10,5074
+"Western Pacific",2020-02-11,4074
+"Western Pacific",2020-02-12,3770
+"Western Pacific",2020-02-13,27286
+"Western Pacific",2020-02-14,12964
+"Western Pacific",2020-02-15,4148
+"Western Pacific",2020-02-16,4224
+"Western Pacific",2020-02-17,3866
+"Western Pacific",2020-02-18,3588
+"Western Pacific",2020-02-19,836
+"Western Pacific",2020-02-20,1084
+"Western Pacific",2020-02-21,1186
+"Western Pacific",2020-02-22,3410
+"Western Pacific",2020-02-23,416
+"Western Pacific",2020-02-24,926
+"Western Pacific",2020-02-25,1064
